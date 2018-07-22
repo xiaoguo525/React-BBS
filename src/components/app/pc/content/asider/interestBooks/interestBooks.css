@@ -1,0 +1,105 @@
+.interestBooks{
+	text-align: left;
+	margin-top: 10px;
+	display:inline-block;
+}
+.title{
+	background-color: #fff;
+	height: 40px;
+	line-height: 40px;
+	text-indent: 2px;
+}
+ul,li{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.my-book-item {
+    width: 47%;
+    float: left;
+    display: block;
+    border: solid 1px #F0F3F4;
+    /*margin-right: 2%;*/
+    margin-bottom: 15px;
+    height: 155px;
+    border-radius: 6px;
+    /*overflow: hidden;*/
+    margin:2% 1%;
+}
+.my-book-item ul {
+    width: 100%;
+    float: left;
+    display: block;
+}
+.my-book-item li {
+	/*width: 100%;*/
+    /*float: left;*/
+    /*display:block;*/
+}
+.book-li1 {
+    height: 65px;
+    overflow: hidden;
+    width: 100%;
+}
+a {
+    color: #333;
+    text-decoration: none;
+}
+.book-li1 img {
+    width: 100%;
+}
+img {
+    border: none;
+}
+.book-li2 {
+    width: 100%;
+}
+.book-li2  img{
+	border-radius: 50%;
+}
+.auther-box {
+    width: 30px;
+    height: 30px;
+    margin: 0 auto;
+    position: relative;
+    margin-top: -15px;
+}
+.auther-box img {
+    width: 100%;
+    height: 100%;
+}
+.book-li3 {
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 7px;
+    width: 96%;
+    padding-left: 2%;
+    padding-right: 2%;
+    height: 30px;
+    /*overflow: hidden;*/
+}
+.book-li3 a{
+    color:black;
+}
+.book-li4 {
+    width: 100%;
+    border-top: solid 1px #ECF0F1;
+    padding-top: 8px;
+    text-align: center;
+    margin-top: 10px;
+}
+.interestBooks .interestBooks-wrap{
+	background-color: white;
+	display:inline-block;
+	margin-top: -5px;
+}
+.btn-yellow-small{
+	border:1px solid green;
+	border-radius: 20px;
+	color:green;
+	padding: 2px 3px;
+	font-size: 10px;
+	opacity:0.8;
+}

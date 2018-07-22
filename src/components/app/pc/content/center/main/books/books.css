@@ -1,0 +1,85 @@
+.article-item {
+    width: 31%;
+    float: left;
+    display: inline;
+    border: solid 1px #F0F3F4;
+    margin-left: 2%;
+    margin-bottom: 15px;
+    height: 215px;
+    border-radius: 6px;
+    overflow: hidden;
+}
+div, ul, li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.article-item ul {
+    width: 100%;
+    float: left;
+    display: inline;
+}
+.article-item ul li {
+    float: left;
+    display: inline;
+}
+.atl-li1 {
+    height: 110px;
+    overflow: hidden;
+    width: 100%;
+}
+a {
+    color: #333;
+    text-decoration: none;
+}
+.atl-li1 img {
+    width: 100%;
+}
+.atl-li2 {
+    width: 100%;
+}
+.auther-box {
+    width: 30px;
+    height: 30px;
+    margin: 0 auto;
+    position: relative;
+    margin-top: -15px;
+}
+.auther-box img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%
+}
+.atl-li3 {
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 7px;
+    width: 96%;
+    padding-left: 2%;
+    padding-right: 2%;
+    height: 50px;
+    overflow: hidden;
+}
+.atl-li4 {
+    width: 100%;
+    border-top: solid 1px #ECF0F1;
+    padding-top: 6px;
+}
+.atl-li4 dl {
+    width: 33%;
+    float: left;
+    display: inline;
+    text-align: center;
+    color: #94999A;
+    font-size: 11px;
+}
+.books{
+	background-color: #fff;
+	padding: 7px 10px;
+	overflow: hidden;
+	margin-top: -16px;
+	margin-left: 1px;
+
+}

@@ -1,0 +1,87 @@
+.groups{
+	text-align: left;
+}
+.groups-title{
+	font-size: 16px;
+	height: 40px;
+	background-color: white;
+	line-height: 40px;
+	text-indent: 2px;
+}
+
+.groups-main{
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content:space-around;
+	flex-wrap:wrap;
+	height: 160px;
+	margin-top: 3px;
+	background-color: white;
+
+}
+.groups-Img{
+	width: 55px;
+	height: 55px;
+}
+.group-wrap{
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content:center;
+	border:1px solid lightgray;
+	padding: 3px 2px;
+	width: 24.5%;
+	height: 48%;
+}
+.group-topic{
+	/*margin-top: -20px;*/
+	height: 30%;
+}
+.group-right .g-title{
+	font-size: 14px;
+	font-weight: bold;
+	height: 20%;
+}
+.member,.topic{
+	font-size:8px;
+	color:#B3B0A3;
+	margin-right: 5px;
+}
+.group-right .attention{
+	font-size: 10px;
+	border:1px solid;
+	color:black;
+	width: 57px;
+	height: 18px;
+	display:inline-block;
+}
+.group-right{
+	padding: 1px 0px 3px 3px;
+	flex:2;
+	height: 100%;
+}
+.group-left{
+	flex:1;
+}
+.slideRightImg{
+	width: 25px;
+}
+.groups-icon{
+	display: flex;
+	justify-content:center;
+	align-items:center;
+	height: 160px;
+	background-color: white;
+	margin-top: 3px;
+}
+.groups-wrap{
+	padding: 10px 3px;
+	background-color: #fff;
+	margin-top: 3px;
+	width: 100%;
+}
